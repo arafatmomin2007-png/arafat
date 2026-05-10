@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Personal Details</title>
+</head>
+<body>
+
+    <h1><u>Personal Details</u></h1>
+
+    <p><b>Name:</b> Arafat Momin</p>
+    <p><b>Age:</b> 18</p>
+    <p><b>Course:</b> <i>Computer Science and Engineering</i></p>
+    <p><b>College:</b> <u>Your College Name</u></p>
+    <p><b>City:</b> Sangli</p>
+    <p><b>Hobby:</b> <mark>Playing Cricket</mark></p>
+
+</body>
+</html>
+
+
+
+
+
+ 
+Code explanation (line by line)
+•	<!DOCTYPE html>
+Tells the browser that this is an HTML5 document. 
+•	<html>
+This is the root tag. All HTML code comes inside it. 
+•	<head>
+Contains information about the page, not the visible content. 
+•	<title>Personal Details</title>
+This sets the title shown on the browser tab. 
+•	<body>
+Everything inside the body is visible on the webpage. 
+•	<h1><u>Personal Details</u></h1>
+h1 creates a main heading.
+u underlines the text. 
+•	<p><b>Name:</b> Arafat Momin</p>
+p creates a paragraph.
+b makes “Name:” bold. 
+•	<i>Computer Science and Engineering</i>
+i displays text in italic. 
+•	<mark>Playing Cricket</mark>
+mark highlights the text. 
+•	</body> and </html>
+These are closing tags. 
+________________________________________
+Simple viva explanation in one go
+If teacher says “Explain your program,” you can say:
+“This program creates a simple HTML page to display personal details. I used formatting tags like bold, italic, underline, and mark. The title appears on the browser tab, and all personal information is displayed inside the body section.”
+________________________________________
+Common viva questions
+1. What is HTML?
+HTML stands for HyperText Markup Language. It is used to create web pages.
+2. What is the use of <!DOCTYPE html>?
+It tells the browser that the document is an HTML5 document.
+3. What is the difference between <head> and <body>?
+•	<head> contains page information like title. 
+•	<body> contains visible content. 
+4. What does <title> do?
+It displays the page title on the browser tab.
+5. What is the use of <p> tag?
+It creates a paragraph.
+6. What does <b> tag do?
+It makes text bold.
+7. What does <i> tag do?
+It makes text italic.
+8. What does <u> tag do?
+It underlines the text.
+9. What does <mark> tag do?
+It highlights the text.
+10. What are opening and closing tags?
+Example: <p> is opening tag and </p> is closing tag.
+________________________________________
+One practical tip
+If the teacher asks “Why did you use formatting tags?”, say:
+“Formatting tags make the text more clear, attractive, and easy to read.”
+
